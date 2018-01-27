@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TinkoffRate.iml" filepath="$PROJECT_DIR$/.idea/modules/TinkoffRate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TinkoffRate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TinkoffRate_main.iml" group="TinkoffRate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TinkoffRate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TinkoffRate_test.iml" group="TinkoffRate" />
+    </modules>
+  </component>
+</project>
